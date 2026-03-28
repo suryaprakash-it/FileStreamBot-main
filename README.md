@@ -1,7 +1,7 @@
 <h1 align="center">InfinityGamer FileStreamBot</h1>
 <p align="center">
-  <a href="https://github.com/infinitygamer/FileStreamBot">
-    <img src="https://graph.org/file/80d1f94e81bbc1acadb36.jpg" alt="Cover Image" width="550">
+  <a href="https://github.com/suryaprakash-it/FileStreamBot-main">
+    <img src="https://files.catbox.moe/zyoq19.jpg" alt="Cover Image" width="550">
   </a>
 </p>  
 <p align="center">
