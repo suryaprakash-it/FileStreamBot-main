@@ -18,7 +18,7 @@
 
 <p align="center">
     <a href="https://github.com/infinitygamer/FileStreamBot">
-        <img src="https://i.ibb.co/ZJzJ9Hq/link-3x.png" height="100" width="100" alt="FileStreamBot Logo">
+        <img src="https://files.catbox.moe/zyoq19.jpgs" height="100" width="100" alt="FileStreamBot Logo">
     </a>
 </p>
 <p align='center'>
